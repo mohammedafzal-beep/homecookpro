@@ -4,7 +4,7 @@ import PIL.Image
 import google.generativeai as genai
 import time
 import cv2, numpy as np 
-API_KEY = "AIzaSyC3GCuLQrQwkPN5QM-fEHtqou5so_EFVro"  
+
 genai.configure(api_key=API_KEY)
 
  
