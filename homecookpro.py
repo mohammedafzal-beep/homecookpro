@@ -3,7 +3,8 @@ import streamlit as st
 import PIL.Image  
 import google.generativeai as genai
 import time
-import cv2, numpy as np 
+import cv2 
+import numpy as np 
 
 genai.configure(api_key="AIzaSyC3GCuLQrQwkPN5QM-fEHtqou5so_EFVro" )
 
