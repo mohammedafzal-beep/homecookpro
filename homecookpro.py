@@ -6,7 +6,7 @@ import time
 import cv2 
 import numpy as np 
 import os
-genai.configure(api_key=os.environ['GENAI_API_KEY'])    
+genai.configure(api_key='AIzaSyC3GCuLQrQwkPN5QM-fEHtqou5so_EFVro')    
 
  
 st.set_page_config(page_title="HomeCook Pro", layout="wide")  
