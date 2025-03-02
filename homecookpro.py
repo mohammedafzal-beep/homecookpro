@@ -5,7 +5,7 @@ import google.generativeai as genai
 import time
 import cv2, numpy as np 
 
-genai.configure(api_key=API_KEY)
+genai.configure(api_key="AIzaSyC3GCuLQrQwkPN5QM-fEHtqou5so_EFVro" )
 
  
 st.set_page_config(page_title="HomeCook Pro", layout="wide")  
