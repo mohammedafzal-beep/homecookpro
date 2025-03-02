@@ -2,3 +2,6 @@ streamlit
 pillow
 Pillow
 google-generativeai
+numpy
+--no-cache-dir
+opencv-python-headless
