@@ -3,6 +3,10 @@ import streamlit as st
 import PIL.Image  
 import google.generativeai as genai
 import time
+import os
+
+# Ensure OpenCV dependencies are installed
+os.system("pip install --no-cache-dir --force-reinstall opencv-python-headless")
 import cv2 
 import numpy as np 
 
