@@ -8,7 +8,7 @@ import cv2, numpy as np
 genai.configure(api_key=API_KEY)
 
  
-st.set_page_config(page_title="Homecook Pro", layout="wide")  
+st.set_page_config(page_title="HomeCook Pro", layout="wide")  
  
 def resize_image_cv2(_image, max_size=512):  
     img_array = np.array(_image)  # Convert PIL Image to NumPy array  
