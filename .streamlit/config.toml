@@ -1,0 +1,3 @@
+[server]
+headless = true
+enableCORS = true  # Enable CORS for all domains (or specify a list of allowed domains)
