@@ -2,4 +2,6 @@ streamlit
 pillow
 Pillow
 google-generativeai
+opencv-python
+opencv-python-headless
 opencv-contrib-python
